@@ -24,7 +24,7 @@ ul {
   background: #fff;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 2vh;
   font-weight: bold;
   line-height: 5vh;
   height: 5vh;
@@ -51,4 +51,5 @@ ul {
   display: flex;
   padding-left: 2vh;
   padding-right: 2vh;
+  font-size: 2vh;
 }
